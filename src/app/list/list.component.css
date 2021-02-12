@@ -1,0 +1,13 @@
+*, *::before,*::after{
+    box-sizing:border-box;
+    font-family: 'Open Sans', sans-serif;;
+}
+body{
+  background-color: teal;
+}
+h1,h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

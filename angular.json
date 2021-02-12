@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "practice2"
+  "defaultProject": "practice2",
+  "cli": {
+    "analytics": "7587582a-ce06-42d6-b1e9-64f83d3ae01e"
+  }
 }
