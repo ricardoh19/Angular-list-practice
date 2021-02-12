@@ -1,7 +1,6 @@
-Practice2
+**Practice2**
 ____________________________________________
 Displays a list of authors.
-
 
 
 What I Learned
