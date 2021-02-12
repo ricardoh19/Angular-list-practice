@@ -1,4 +1,15 @@
-# Practice2
+Practice2
+____________________________________________
+Displays a list of authors.
+
+
+
+What I Learned
+-----------------------------------
+* Working with Angular components. 
+* Angular Services
+* Dependancy injection
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
 
