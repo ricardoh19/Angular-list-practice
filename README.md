@@ -1,4 +1,4 @@
-**Practice2**
+**Angular list practice**
 ____________________________________________
 Displays a list of authors.
 
